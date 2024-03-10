@@ -1,6 +1,6 @@
 # TP8 JAVA
 
-## Objectif of the TP 7
+## Objectif of the TP 8
 
 ```bash
   Implementation of a goose game 
